@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xdFFDDE673C444cA3FaA1f948F134CEd374b561Ec",
+  "SCAN_LINK": "https://polygonscan.com/address/0xdFFDDE673C444cA3FaA1f948F134CEd374b561Ec",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Shiba City",
+  "SYMBOL": "SHC",
+  "MAX_SUPPLY": 9999,
+  "WEI_COST": 20000000000000000000,
+  "DISPLAY_COST": 20,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/shiba-city-nft",
+  "SHOW_BACKGROUND": true
+}
